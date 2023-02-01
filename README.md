@@ -27,6 +27,8 @@ Task 2: ATM Interface
           3)To Deposit money to account using ATM Interface System
 
           4)To Transfer money to another person's account using ATM Interface System
-
-          5)To Quit
+          
+          5)To Check Balance from ATM Interface System
+          
+          6)To Quit
 
